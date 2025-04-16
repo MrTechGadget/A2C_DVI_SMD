@@ -2,7 +2,7 @@
 
 This is a prototype of an adapter to let an Apple IIc use an A2DVI card. 4/15/25
 
-USE AT YOUR OWN RISK.   MIT LICENSE
+**USE AT YOUR OWN RISK.   MIT LICENSE**
 
 This has only been tested with an A2DVI v2 card and a 8BitDevices A2DVI V3 DVI/HDMI ( https://www.8bitdevices.com/product/a2dvi/ ).  I don't think the firmware will work on a v4 card, I have one on order to try.
 
@@ -88,11 +88,11 @@ Hopefully someone will take the idea and build a Iic specific turnkey card.
 
 **SPECIAL THANKS**
 
-Chris Auger ( https://www.8bitdevices.com/product/a2dvi/ )
-Jonathan Adar
-Jawaid Bazyar
-Ralle Palaveev ( https://github.com/rallepalaveev/A2DVI )
-Thorsten Brehm ( https://github.com/ThorstenBr/A2DVI-Firmware )
+- Chris Auger ( https://www.8bitdevices.com/product/a2dvi/ )
+- Jonathan Adar
+- Jawaid Bazyar
+- Ralle Palaveev ( https://github.com/rallepalaveev/A2DVI )
+- Thorsten Brehm ( https://github.com/ThorstenBr/A2DVI-Firmware )
 
 
 **Pictures**
