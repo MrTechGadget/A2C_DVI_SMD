@@ -112,6 +112,8 @@ DP15 Pinouts
 7805 Circuit:
 ![image](https://github.com/user-attachments/assets/ae684c7b-1a18-4d3e-9874-b82fae98b99a)
 
+A2C_DVI_Board (coming soon):
+![image](https://github.com/user-attachments/assets/325f45c0-930e-4e58-8a78-005b97d244a0)
 
 
 
