@@ -17,6 +17,8 @@ The prototype is pretty simple.   A male DB15 connector, with wires to a breadbo
 SCHEMATIC:
 I'm also building a small PCB board that integrates all of this (watch for that Board project on this account).   This is the schematic for the board, which is pretty much the same scematic as the Prototype (ignore the power connector and ground 42 and 43).
 
+https://github.com/FarLeftLane/A2C_DVI_Prototype/blob/main/A2C_DVI_Board_Schematic.4.15.25.pdf
+
 WIRING:
 Take one of the breadboard modules and remove the power rails on one side.   Take the 50-pin slot connector and plug it into the edge with one row of pins in the breadboard and the other row hanging off the edge.  This is a little weird, but it was the easiest way to do it and other than +5V, all of the pins we need are on one side.
 
@@ -39,6 +41,9 @@ Follow the schematic on how to conenct the 7805 and the 2 capacitors to the +12V
 
 For the Button, unground pin 44 from the slot and connect a wire there.  The circuit for the button is:
 +5V -> 1k resistor -> Button -> Line to pin 44 -> 10k Resistor -> GND
+
+FIRMWARE:
+https://github.com/FarLeftLane/A2C_DVI_Prototype/blob/main/A2C_DVI_v1.7.1.uf2
 
 BOM:
 
