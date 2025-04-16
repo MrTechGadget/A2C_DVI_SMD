@@ -16,7 +16,7 @@ The prototype is pretty simple.   A male DB15 connector, with wires to a breadbo
 
 **SCHEMATIC**
 
-I'm also building a small PCB board that integrates all of this (watch for that Board project on this account).   This is the schematic for the board, which is pretty much the same scematic as the Prototype (ignore the power connector and ground 42 and 43).
+I'm also building a small PCB board that integrates all of this (watch for that Board project on this account).   This is the schematic for the board, which is pretty much the same scematic as the Prototype (ignore the buck connector and ground pins 42 and 43).
 
 https://github.com/FarLeftLane/A2C_DVI_Prototype/blob/main/A2C_DVI_Board_Schematic.4.15.25.pdf
 
