@@ -7,13 +7,18 @@ This is a project for a digital DVI/HDMI video cards for Apple IIc or IIc+. It d
 ### Mike Neil's [Inspiration](https://github.com/FarLeftLane/A2C_DVI_Board)
 > I have been working on a project using an ESP32-C6 to take the digital video signals from the Apple IIc DB15 video connector and allow remote viewing of the screen on a PC (watch this account for the ViewIIc plans).  The circuit design was pretty simple, a DB15 connector, a 74VLC245 for level conversion (5V to 3.3V) and a ESP32-C6 module. It occured to me that I could take those same Apple IIc signals and using the picoDVI libraries create a IIc to HDMI solution using an RP2040 or RP2350 (Raspberry Pi Pico). This is the same HW that is on an A2DVI card for a slotted Apple II (RP2040 and 245's). The Protype takes the A2DVI card out of the machine and instead of connecting to Apple II bus signals (address, data, etc), we feed the Apple IIc digital video signals into the cards pins and use custom firmware to recreate the display out to HDMI.
 
-## PROTOTYPE
+## HARDWARE
+### Protoype
 
 My first version was designed from Mike's schematic and mapping those through the the needed components found on the A2DVI card itself. It utilized a Raspberry Pi Pico device for simplicity, but the overall size was too big and it blocked access to the composite video
 
-## Version 2
+### Version 2
 
 Inspired by the working prototype, I decided I could make it MUCH smaller by implementing the RP2040 directly on the board. 
+
+## Availability
+
+This card is available for purchase in the US for $35 including shipping on my Tindie Store [MrTechGadget's Gadgets](https://www.tindie.com/products/mrtechgadget/a2cdvi/)
 
 ## Flashing Firmware
 The latest firmware can be found on Mike Neil's [A2C_DVI_Firmware repo](https://github.com/FarLeftLane/A2C_DVI_Firmware/tree/master/Releases)
