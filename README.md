@@ -2,6 +2,7 @@
 
 This is a project for a digital DVI/HDMI video cards for Apple IIc or IIc+. It directly produces a digital video stream from the Apple IIc's digital video output connector. The signal is output via an HDMI connector, connecting the Apple IIc to modern displays with HDMI (or DVI) inputs. No more analog signal conversion required.
 
+![A2CDVI v2.1.0 Board](https://github.com/MrTechGadget/A2C_DVI_SMD/blob/1c6c0517c162baf9940b768525fd8b74470f6342/A2C_DVI_2.1.0_Hires.jpg)
 
 ## BACKGROUND
 ### Mike Neil's [Inspiration](https://github.com/FarLeftLane/A2C_DVI_Board)
