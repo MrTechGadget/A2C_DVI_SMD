@@ -19,7 +19,7 @@ Inspired by the working prototype, I decided I could make it MUCH smaller by imp
 
 ## Availability
 
-This card is available for purchase in the US for $35 including shipping on my Tindie Store [MrTechGadget's Gadgets](https://www.tindie.com/products/mrtechgadget/a2cdvi/)
+This card is available for purchase in the US for $35 plus shipping on my Tindie Store [MrTechGadget's Gadgets](https://www.tindie.com/products/mrtechgadget/a2cdvi/)
 
 ## Flashing Firmware
 The latest firmware can be found on Mike Neil's [A2C_DVI_Firmware repo](https://github.com/FarLeftLane/A2C_DVI_Firmware/tree/master/Releases)
