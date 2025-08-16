@@ -17,7 +17,7 @@ My first version was designed from Mike's schematic and mapping those through th
 
 Inspired by the working prototype, I decided I could make it MUCH smaller by implementing the RP2040 directly on the board. 
 
-### Versiom 2.5
+### Version 2.5
 
 Fixed compatibility issues with some HDTVs and added hardware support for Mike Neil's latest firmware features!
 
