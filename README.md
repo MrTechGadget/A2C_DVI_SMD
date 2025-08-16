@@ -17,6 +17,10 @@ My first version was designed from Mike's schematic and mapping those through th
 
 Inspired by the working prototype, I decided I could make it MUCH smaller by implementing the RP2040 directly on the board. 
 
+### Versiom 2.5
+
+Fixed compatibility issues with some HDTVs and added hardware support for Mike Neil's latest firmware features!
+
 ## Availability
 
 This card is available for purchase in the US for $35 plus shipping on my Tindie Store [MrTechGadget's Gadgets](https://www.tindie.com/products/mrtechgadget/a2cdvi/)
